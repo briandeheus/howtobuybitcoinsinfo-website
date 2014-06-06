@@ -1393,4 +1393,4 @@ J&KCoins:
   icon: /favicon.png
   url: http://www.jandkcoins.ca/
   content: <p>J&KCoins - Offers Canadian residents a safe and secure method of purchasing paper wallets preloaded with Bitcoins using Interac Online.</p>
-  coins: [btc, doge]
+  coins: [btc, doge, ltc]
