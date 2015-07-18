@@ -1394,3 +1394,13 @@ J&KCoins:
   url: http://www.jandkcoins.ca/
   content: <p>J&KCoins - Offers Canadian residents a safe and secure method of purchasing paper wallets preloaded with Bitcoins using Interac Online.</p>
   coins: [btc, doge]
+
+
+testexchange
+  label: Test exchange
+  icon: /
+  countries: [us]
+  url: http://testexchange.com
+  content: |
+    <p>This is a description</p>
+  coins: [btc]
